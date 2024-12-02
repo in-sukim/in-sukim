@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LangGraph for LLM Agents**
 
-- 📝 I regularly write articles on [in-sukim.github.io](in-sukim.github.io)
+- 📝 I regularly write articles on [in-sukim.github.io](https://in-sukim.github.io/)
 
 - 👨‍💻 All of my projects are available at [Google Drive Link](https://drive.google.com/drive/folders/1ZXhSxAxCsxvVBpLgjThuOCdApdQIEQkY?usp=sharing)
 
