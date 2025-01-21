@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=in-sukim&label=Profile%20views&color=0e75b6&style=flat" alt="in-sukim" /> </p>
 
-- 🌱 I’m currently learning **LangGraph for LLM Agents**
+- 🌱 I’m currently learning **LangChain, LangGraph for LLM Agents**
 
-- 📝 I regularly write articles on [in-sukim.github.io](https://in-sukim.github.io/)
-
-- 👨‍💻 All of my projects are available at [Google Drive Link](https://drive.google.com/drive/folders/1ZXhSxAxCsxvVBpLgjThuOCdApdQIEQkY?usp=sharing)
-
-- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/drive/folders/1ZXhSxAxCsxvVBpLgjThuOCdApdQIEQkY?usp=sharing)
-
-- 📫 How to reach me **rladlstn494@naver.com**
+- 📫 How to reach me **insukim.ai@gmail.com**
 
 <p align="left">
 </p>
