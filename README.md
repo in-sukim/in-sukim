@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Insu Kim</h1>
-<h3 align="center">Junior AI developer</h3>
+<h3 align="center">Junior ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=in-sukim&label=Profile%20views&color=0e75b6&style=flat" alt="in-sukim" /> </p>
 
